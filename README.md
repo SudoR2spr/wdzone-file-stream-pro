@@ -156,8 +156,8 @@ DATABASE_URL=mongodb_uri
 
 To get an instant stream link, just forward any media to the bot and boom, its fast af.
 
-![image]([https://i.postimg.cc/.jpg](https://graph.org/file/80f8407f52564d654bf24.jpg)  
-![image]([https://i.postimg.cc/.jpg](https://graph.org/file/5c7e83f9c56fb1fc74de9.jpg)
+![image]([https://graph.org/file/80f8407f52564d654bf24.jpg](https://graph.org/file/80f8407f52564d654bf24.jpg)  
+![image]([https://graph.org/file/5c7e83f9c56fb1fc74de9.jpg](https://graph.org/file/5c7e83f9c56fb1fc74de9.jpg)
 
 
 ### Channel Support
